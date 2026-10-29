@@ -98,7 +98,7 @@ Every input combination from `000` to `111` was tested, and the display shows th
 
 ## Difficulties
 
-The most difficult part of this lab was the creation of the initial equations and the implementation of the simplified equations into Logisim. These difficulties stemmed more from a place of tedium than from a place of confusing logic. Understanding the general logic enabled me to focus on making sure I was righting equations properly and wiring the proper input to each logic gate.
+The most difficult part of this lab was the creation of the initial equations and the implementation of the simplified equations into Logisim. These difficulties stemmed more from a place of tedium than from a place of confusing logic. Understanding the general logic enabled me to focus on making sure I was writing equations properly and wiring the proper input to each logic gate.
 
 ---
 
